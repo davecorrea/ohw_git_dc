@@ -1,2 +1,3 @@
 # ohw_git_dc
-First program in Github
+This is my first program in Hithub.
+
